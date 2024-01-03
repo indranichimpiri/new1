@@ -1,0 +1,26 @@
+div{
+    
+    border:13px solid red;
+    /*padding-top:54px;
+    padding-right:75px;
+    padding-bottom:80px;
+    padding-left:54px;*/
+    /*for four sides*/
+    padding:29px;
+     
+    /*        top  right  bottom  left
+      padding:54px  124px   84px   54px;*/
+
+    /*         top    right and left bottom
+     padding:   24px       195px       25px;*/  
+
+     /*         top&bottom    left&right
+     padding:     85px         65px;*/
+     margin-top:25px;
+     margin-right: 95px;
+     margin-bottom:35px;
+     /*margin:25px 85px 25px;*/
+}
+p{
+    justify-content: center;
+}
